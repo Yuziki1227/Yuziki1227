@@ -30,7 +30,7 @@
 <p align="center">
 <a href="https://github.com/Yuziki1227"><img src="https://img.shields.io/badge/GitHub-Yuziki1227-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/355616672"><img src="https://img.shields.io/badge/哔哩哔哩-Yuziki1227-pink?logo=bilibili" /></a>
-<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
+<img src="https://img.shields.io/badge/QQ-1045304138-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Yuziki1227&abbreviated=true&color=yellow" />
 </p>
