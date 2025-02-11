@@ -1,41 +1,49 @@
-<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Yuziki1227!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FD6FF,100:FFB5E8&height=240&section=header&text=Yuziki1227&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georama&weight=500&size=26&pause=1000&color=6A9BFF&center=true&vCenter=true&width=500&lines=Full-stack+Developer;Open+Source+Enthusiast;Coffee+%E2%98%95%EF%B8%8F+Code+%F0%9F%92%BB" />
+</div>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Yuziki1227&show_icons=true&theme=aura&hide_border=true&include_all_commits=true" />
+  <img width="400" src="https://streak-stats.demolab.com?user=Yuziki1227&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuziki1227&theme=react-dark&hide_border=true&area=true&height=300" />
+</div>
 
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
-</p>
+<!-- 语言统计横向排列 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuziki1227&theme=aura&hide_border=true&layout=compact&langs_count=8&exclude_repo=archived-projects" />
+</div>
 
-<p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Yuziki1227&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Yuziki1227&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Yuziki1227&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-<br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yuziki1227&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuziki1227&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
-</p>
+<!-- 精选技能图标分两行显示 -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cs,cpp,ts,react,nodejs,azure,aws&theme=light&perline=8" /> 
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,postgres,redis,grafana,latex,md,idea&theme=light&perline=8" />
+</div>
+<div align="center">
+  <a href="https://github.com/Yuziki1227">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://space.bilibili.com/355616672">
+    <img src="https://img.shields.io/badge/-哔哩哔哩-00A1D6?style=flat&logo=bilibili&logoColor=white" />
+  </a>
+  <a href="tencent://message/?uin=1045304138">
+    <img src="https://img.shields.io/badge/-QQ-32CD32?style=flat&logo=tencentqq&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yuziki1227&style=flat&color=blueviolet" />
+</div>
 
-<!-- https://github.com/badges/shields -->
-<p align="center">
-<a href="https://github.com/Yuziki1227"><img src="https://img.shields.io/badge/GitHub-Yuziki1227-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/355616672"><img src="https://img.shields.io/badge/哔哩哔哩-Yuziki1227-pink?logo=bilibili" /></a>
-<img src="https://img.shields.io/badge/QQ-1045304138-green?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=Yuziki1227&abbreviated=true&color=yellow" />
-</p>
+<!-- 动态名言 -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+  </a>
+</div>
 
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+<!-- 简约底部装饰 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB5E8,100:9FD6FF&height=180&section=footer&animation=fadeIn" />
+</div>
