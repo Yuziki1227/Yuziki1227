@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jerry (Mingchun)!
 ## 🚀 About Me
-- 🎓 Computer Science student at University of Brisbane (Year 2)
+- 🎓 Computer Science student at University of Queensland (Year 2)
 - 💼 Currently operating AEROCAT
 - 🌱 Former intern at ByteDance
 - ☕ Coffee enthusiast in daily life
