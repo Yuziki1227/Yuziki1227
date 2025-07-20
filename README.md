@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Jerry (Mingchun)!
 ## 🚀 About Me
-- 🎓 Computer Science student at University of Queensland (Year 2)
-- 💼 Currently operating AEROCAT
-- 🌱 Former intern at ByteDance
+- 🎓 Computer Science student at University of Queensland (Year 3)
+- 🌱 Former intern at ByteDance(2023 Summer)
 - ☕ Coffee enthusiast in daily life
 ## 💻 Tech Stack
 - 🛠️ Proficient: Rust, C++, Python, Go, C#, Assembly
