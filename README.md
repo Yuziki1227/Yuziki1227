@@ -1,63 +1,109 @@
-# <p align="center">YUZIKI1227</p>
+<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
 
+<br />
 <p align="center">
-  <img src="https://img.shields.io/badge/BYTEDANCE%20ENGINEER-0051FF?style=for-the-badge&logo=bytedance&logoColor=white&link=https://www.bytedance.com/" alt="ByteDance Engineer Badge" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" width="40" height="40" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=0051FF&center=true&vCenter=true&width=500&lines=SOFTWARE+ARCHITECTURE;COFFEE+AND+CODE;GAMING+ENTHUSIAST" />
+<h1 align="center" style="border-bottom: none; font-size: 48px; font-weight: 700; letter-spacing: -1.5px; margin-bottom: 0;">
+  Yuziki1227
+</h1>
+<p align="center" style="font-size: 20px; color: #86868b; font-weight: 400; margin-top: 10px; letter-spacing: -0.5px;">
+  Independent Developer. Think different.
 </p>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Software_Engineering-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based_in-Earth-8e8e93?style=for-the-badge" />
+</p>
+
+<br />
+<br />
 
 ---
 
-### SYSTEM STATUS
+<div align="left" style="max-width: 800px; line-height: 1.6;">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yuziki1227/yuziki1227/main/assets/activity.svg" alt="GitHub Activity Graph" />
+<h2 style="font-size: 32px; font-weight: 600; letter-spacing: -1px;">The power of simplicity.</h2>
+
+<p style="font-size: 18px; color: #1d1d1f;">
+  Hi..?
 </p>
 
-<div align="center">
+<br />
 
-| CATEGORY | INFO |
-| :--- | :--- |
-| **ORGANIZATION** | BYTEDANCE |
-| **INTERESTS** | COFFEE / HARDCORE GAMING |
-| **LOCATION** | SHANGHAI, CN |
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-000000?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white" />
+</p>
 
 </div>
 
----
-
-### CORE STACK & TOOLS
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,go,rust,docker,kubernetes,linux,vscode&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yuziki1227?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Yuziki1227?style=for-the-badge&labelColor=111111&color=0051FF&logo=github" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/Yuziki1227?tab=repositories">
-    <img src="https://img.shields.io/github/forks/Yuziki1227?style=for-the-badge&labelColor=111111&color=0051FF&logo=github" alt="GitHub Forks" />
-  </a>
-</p>
+<br />
 
 ---
 
-### CONNECTION
+<div align="left">
 
-<p align="center">
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-0051FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/your_linkedin_profile">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0051FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn Badge" />
-  </a>
+<h2 style="font-size: 32px; font-weight: 600; letter-spacing: -1px;">Selected Projects</h2>
+
+<br />
+
+<table border="0" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td width="50%" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuziki1227&repo=acpi-vtd-research&theme=transparent&title_color=1d1d1f&text_color=86868b&icon_color=1d1d1f&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuziki1227&repo=redis-file-transfer-demo&theme=transparent&title_color=1d1d1f&text_color=86868b&icon_color=1d1d1f&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+<h2 style="font-size: 32px; font-weight: 600; letter-spacing: -1px;">Activity & Insights</h2>
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yuziki1227&show_icons=true&theme=transparent&hide_border=true&title_color=1d1d1f&text_color=86868b&icon_color=1d1d1f" width="80%" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuziki1227&theme=transparent&hide_border=true&stroke=1d1d1f&ring=1d1d1f&fire=1d1d1f&currStreakLabel=1d1d1f" width="80%" />
+
+</div>
+
+<br />
+<br />
+
+---
+
+<div align="center" style="color: #86868b; font-size: 14px;">
+
+<p>
+  <a href="mailto:Yuziki1227@outlook.com" style="color: #0066cc; text-decoration: none;">Email</a> · 
+  <a href="https://v50。me/" style="color: #0066cc; text-decoration: none;">Website</a> · 
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Yuziki1227&label=VISITOR_ID&color=0051FF&style=flat-square" alt="Profile Views" />
+<p style="margin-top: 20px;">
+  Copyright © 2026 Yuziki1227. All rights reserved. <br />
+  Designed with precision.
 </p>
+
+</div>
+
+</div>
