@@ -1,7 +1,7 @@
 # <p align="center">YUZIKI1227</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0051FF&height=120&section=header&text=BYTEDANCE%20ENGINEER&fontSize=50&fontAlignY=50&animation=fadeIn" />
+  <img src="https://img.shields.io/badge/BYTEDANCE%20ENGINEER-0051FF?style=for-the-badge&logo=bytedance&logoColor=white&link=https://www.bytedance.com/" alt="ByteDance Engineer Badge" />
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 
 ---
 
-### CURRENT STATUS
+### SYSTEM STATUS
 
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/snake.svg?github_user=Yuziki1227&color_snake=%230051FF&color_dots=%23161b22,%230051FF,%2340c463,%23216e39" alt="snake" />
+  <img src="https://raw.githubusercontent.com/yuziki1227/yuziki1227/main/assets/activity.svg" alt="GitHub Activity Graph" />
 </p>
 
 <div align="center">
@@ -28,16 +28,7 @@
 
 ---
 
-### ANALYTICS
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuziki1227&show_icons=true&theme=dark&hide_border=true&title_color=0051FF&icon_color=0051FF&bg_color=0d1117&text_color=FFFFFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuziki1227&layout=compact&theme=dark&hide_border=true&title_color=0051FF&bg_color=0d1117&text_color=FFFFFF" />
-</p>
-
----
-
-### TECH STACK
+### CORE STACK & TOOLS
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,11 +37,27 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BYTEDANCE-0051FF?style=for-the-badge&logo=bytedance&logoColor=white" />
-  <img src="https://img.shields.io/badge/COFFEE-6F4E37?style=for-the-badge&logo=starbucks&logoColor=white" />
-  <img src="https://img.shields.io/badge/GAMING-FF0000?style=for-the-badge&logo=playstation&logoColor=white" />
+  <a href="https://github.com/Yuziki1227?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Yuziki1227?style=for-the-badge&labelColor=111111&color=0051FF&logo=github" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/Yuziki1227?tab=repositories">
+    <img src="https://img.shields.io/github/forks/Yuziki1227?style=for-the-badge&labelColor=111111&color=0051FF&logo=github" alt="GitHub Forks" />
+  </a>
+</p>
+
+---
+
+### CONNECTION
+
+<p align="center">
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-0051FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/your_linkedin_profile">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0051FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn Badge" />
+  </a>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Yuziki1227&label=VISITOR_ID&color=0051FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Yuziki1227&label=VISITOR_ID&color=0051FF&style=flat-square" alt="Profile Views" />
 </p>
