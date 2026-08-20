@@ -41,5 +41,4 @@
 <p>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-0D1117?style=flat-square&logo=anthropic&logoColor=58A6FF">
   <img alt="Qoder" src="https://img.shields.io/badge/Qoder-0D1117?style=flat-square&logo=alibabacloud&logoColor=58A6FF">
-  <img alt="Vibe Coding" src="https://img.shields.io/badge/Vibe%20Coding-0D1117?style=flat-square">
 </p>
